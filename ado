@@ -15,7 +15,7 @@ cat > "$BANNER" << 'EOF'
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Multi-Login</font><br>
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Spaming / Criminal Activities</font><br><br>
 
-<font color="#FF3333"><b>⚠️ MELANGGAR = BANNED TANPA REFUND! ⚠️</b></font><br>
+<font color="#FF3333"><b>⚠️ MELANGGAR = BANNED TANPA REFUND!</b></font><br>
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
 
 <font color="#FFD700"><b>❖ BANTUAN / ORDER AKUN ❖</b></font><br>
@@ -30,7 +30,6 @@ cat > "$BANNER" << 'EOF'
 
 <font color="#FFFFFF">Koneksimu</font>
 <font color="#FFD700"><b> • Prioritasku</b></font>
-</p>
 EOF
 
 systemctl restart ssh
