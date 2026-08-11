@@ -6,7 +6,7 @@ cat > "$BANNER" << 'EOF'
 <p style="text-align:center">
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br>
 <font color="#FFD700"><b>❖ ADO VPN TUNNEL ❖</b></font><br>
-<font color="#FFFFFF">Premium SSH &amp; X-Ray Service</font><br>
+<font color="#191970">Premium SSH &amp; X-Ray Service</font><br>
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
 
 <font color="#FFCC00"><b>⚠️ PERATURAN / LARANGAN ⚠️</b></font><br>
