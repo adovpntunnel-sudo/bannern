@@ -33,7 +33,7 @@ cat > "$BANNER" << 'EOF'
 </p>
 EOF
 
-systemctl restart ssh 2>/dev/null
-systemctl restart dropbear 2>/dev/null
+systemctl restart ssh
+systemctl restart dropbear
 
-echo "✅ Banner ADO VPNTUNNEL berhasil dipasang!"
+echo "✅ Banner berhasil dipasang!"
