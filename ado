@@ -6,15 +6,14 @@ cat > "$BANNER" << 'EOF'
 <p style="text-align:center">
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br>
 <font color="#FFD700"><b>❖ ADO DIGITAL SOLUTIONS ❖</b></font><br>
-<font color="#0000FF">Premium SSH &amp; X-Ray Service</font><br>
+<font color="#87CEFA">Premium SSH &amp; X-Ray Service</font><br>
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
 
-<font color="#FFCC00"><b>⚠️ PERATURAN / LARANGAN ⚠️</b></font><br>
+<font color="#FFCC00"><b>⚠️ PERATURAN / LARANGAN </b></font><br>
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Torrent / P2P</font><br>
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">DDOS / Hacking / Carding</font><br>
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Multi-Login</font><br>
 <font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Spaming / Criminal Activities</font><br><br>
-
 <font color="#FF3333"><b>⚠️ MELANGGAR = BANNED PERMANEN TANPA REFUND!</b></font><br>
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
 
