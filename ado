@@ -5,7 +5,7 @@ BANNER="/etc/banner.com"
 cat > "$BANNER" << 'EOF'
 <p style="text-align:center">
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br>
-<font color="#FFD700"><b>❖ ADO VPN TUNNEL ❖</b></font><br>
+<font color="#FFD700"><b>❖ ADO DIGITAL SOLUTIONS ❖</b></font><br>
 <font color="#0000FF">Premium SSH &amp; X-Ray Service</font><br>
 <font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
 
