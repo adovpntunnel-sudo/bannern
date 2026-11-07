@@ -19,14 +19,13 @@ cat > "$BANNER" << 'EOF'
 <font color="#FFD700"><b>💬 BANTUAN & PEMESANAN</b></font><br>
 <font color="#FFFFFF">WhatsApp: </font><font color="#00FF00"><b>https://wa.me/6285780890686</b></font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
-<font color="#FFD700"><b>🛒 ORDER OTOMATIS VIA BOT TELEGRAM</b></font><br>
+<font color="#FFD700"><b>🛒 ORDER BOT OTOMATIS</b></font><br>
 <font color="#FFFFFF">🤖 Bot VPN:</font><br>
 <font color="#00FF00">🔗 https://t.me/AdoPremiumBot</font><br>
 <font color="#FFFFFF">🤖 Bot PPOB:</font><br>
 <font color="#00FF00">🔗 https://t.me/AdoPPOBBot</font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#FFFFFF">🙏 Terima kasih telah memilih layanan kami.</font><br>
-<font color="#FFFFFF">Kepercayaan Anda sangat berarti bagi kami.</font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#AAAAAA">© Premium Service by ADO DIGITAL SOLUTIONS • Est-2026</font><br>
 <font color="#FFD700"><b>⚡ Koneksimu • Prioritasku ⚡</b></font>
