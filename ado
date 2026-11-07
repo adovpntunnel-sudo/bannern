@@ -8,7 +8,7 @@ cat > "$BANNER" << 'EOF'
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#FFD700"><b>🌐 VPN PREMIUM SERVICE</b></font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
-<font color="#FFCC00"><b>⚠️ PERATURAN SERVER</b></font><br>
+<font color="#FFCC00"><b>⚙️ PERATURAN PENGGUNA CONFIG</b></font><br>
 <font color="#FFFFFF">• Dilarang menggunakan Torrent / P2P.</font><br>
 <font color="#FFFFFF">• Dilarang melakukan DDoS, hacking, dan carding.</font><br>
 <font color="#FFFFFF">• Dilarang berbagi akun atau melebihi batas perangkat.</font><br>
