@@ -1,34 +1,29 @@
+
 #!/bin/bash
 
 BANNER="/etc/banner.com"
 
 cat > "$BANNER" << 'EOF'
 <p style="text-align:center">
-<font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br>
-<font color="#FFD700"><b>❖ ADO DIGITAL SOLUTIONS ❖</b></font><br>
-<font color="#87CEFA">Premium SSH &amp; X-Ray Service</font><br>
-<font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
-
-<font color="#FFCC00"><b>⚠️ PERATURAN / LARANGAN </b></font><br>
-<font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Torrent / P2P</font><br>
-<font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">DDOS / Hacking / Carding</font><br>
-<font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Multi-Login</font><br>
-<font color="#00FFFF">✦</font> <font color="#FF0000"><b>NO</b></font> <font color="#FFFFFF">Spaming / Criminal Activities</font><br><br>
-<font color="#FF3333"><b>⚠️ MELANGGAR = BANNED PERMANEN TANPA REFUND!</b></font><br>
-<font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
-
-<font color="#FFD700"><b>❖ BANTUAN / ORDER AKUN ❖</b></font><br>
-<font color="#FFFFFF">Hubungi </font><font color="#00FFFF"><b>WhatsApp Admin</b></font>
-<font color="#FFFFFF"> • </font><font color="#FFD700"><b>Fast Respon</b></font><br>
-
-<font color="#00FFFF">✦</font>
-<font color="#00FF00"><b>wa.me/6285780890686</b></font>
-<font color="#00FFFF"> ✦</font><br>
-
-<font color="#00FFFF">━━━━━━━◇━━━━━━━</font><br><br>
-
-<font color="#FFFFFF">Koneksimu</font>
-<font color="#FFD700"><b> • Prioritasku</b></font>
+<font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
+<font color="#FFD700"><b>🌐 VPN PREMIUM SERVICE</b></font><br>
+<font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
+<font color="#FFCC00"><b>⚠️ PERATURAN SERVER</b></font><br>
+<font color="#FFFFFF">• Dilarang menggunakan Torrent / P2P.</font><br>
+<font color="#FFFFFF">• Dilarang melakukan DDoS, hacking, dan carding.</font><br>
+<font color="#FFFFFF">• Dilarang berbagi akun atau melebihi batas perangkat.</font><br>
+<font color="#FFFFFF">• Dilarang melakukan spam dan aktivitas ilegal.</font><br>
+<font color="#FFFFFF">• Gunakan layanan dengan bijak.</font><br>
+<font color="#FF3333"><b>🚫 Pelanggaran dapat mengakibatkan akun diblokir permanen tanpa pengembalian dana.</b></font><br>
+<font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
+<font color="#FFD700"><b>💬 BANTUAN & PEMESANAN</b></font><br>
+<font color="#FFFFFF">WhatsApp: </font><font color="#00FF00"><b>https://wa.me/6285780890686</b></font><br>
+<font color="#FFFFFF">🙏 Terima kasih telah memilih layanan kami.</font><br>
+<font color="#FFFFFF">Kepercayaan Anda sangat berarti bagi kami.</font><br>
+<font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
+<font color="#AAAAAA">© Premium Service by ADO DIGITAL SOLUTIONS • Est-2026</font><br>
+<font color="#FFD700"><b>⚡ Koneksimu • Prioritasku ⚡</b></font>
+</p>
 EOF
 
 systemctl restart ssh
