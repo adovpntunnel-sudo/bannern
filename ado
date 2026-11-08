@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 BANNER="/etc/banner.com"
@@ -15,13 +14,11 @@ cat > "$BANNER" << 'EOF'
 <font color="#FF3333"><b>⚒️ Melanggar = Banned permanen tanpa pengembalian dana.</b></font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#FFD700"><b>💬 BANTUAN & PEMESANAN</b></font><br>
-<font color="#FFFFFF">WhatsApp: </font><font color="#00FF00"><b>https://wa.me/6285780890686</b></font><br>
+<font color="#FFFFFF">WhatsApp: </font><a href="https://wa.me/6285780890686"><font color="#00FF00"><b>KLIK DI SINI</b></font></a><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#FFD700"><b>🛒 ORDER OTOMATIS VIA BOT TELEGRAM</b></font><br>
-<font color="#FFFFFF">🤖 Bot VPN:</font><br>
-<font color="#00FF00">🔗 https://t.me/AdoPremiumBot</font><br>
-<font color="#FFFFFF">🤖 Bot PPOB:</font><br>
-<font color="#00FF00">🔗 https://t.me/AdoPPOBBot</font><br>
+<font color="#FFFFFF">🤖 Bot VPN: </font><a href="https://t.me/AdoPremiumBot"><font color="#00FF00"><b>KLIK DI SINI</b></font></a><br>
+<font color="#FFFFFF">🤖 Bot PPOB: </font><a href="https://t.me/AdoPPOBBot"><font color="#00FF00"><b>KLIK DI SINI</b></font></a><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
 <font color="#FFFFFF">🙏 Terima kasih telah memilih layanan kami.</font><br>
 <font color="#00FFFF">━━━━━━━━━━━━━━━━━━</font><br>
